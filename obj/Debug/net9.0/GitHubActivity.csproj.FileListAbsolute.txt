@@ -1,0 +1,14 @@
+D:\Examples\Begginner\Task CLI\githubactivity\bin\Debug\net9.0\GitHubActivity.exe
+D:\Examples\Begginner\Task CLI\githubactivity\bin\Debug\net9.0\GitHubActivity.deps.json
+D:\Examples\Begginner\Task CLI\githubactivity\bin\Debug\net9.0\GitHubActivity.runtimeconfig.json
+D:\Examples\Begginner\Task CLI\githubactivity\bin\Debug\net9.0\GitHubActivity.dll
+D:\Examples\Begginner\Task CLI\githubactivity\bin\Debug\net9.0\GitHubActivity.pdb
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.AssemblyInfoInputs.cache
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.AssemblyInfo.cs
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.csproj.CoreCompileInputs.cache
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.dll
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\refint\GitHubActivity.dll
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.pdb
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\GitHubActivity.genruntimeconfig.cache
+D:\Examples\Begginner\Task CLI\githubactivity\obj\Debug\net9.0\ref\GitHubActivity.dll
